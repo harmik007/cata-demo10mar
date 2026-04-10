@@ -29,10 +29,10 @@ times before. You can instead go straight to work building your brand and making
 ![-----------------------------------------------------](https://storage.googleapis.com/bigcommerce-developers/images/catalyst_readme_hr.png)
 
 <p align="center">
- <a href="https://www.catalyst.dev">🚀 catalyst.dev</a> •
- <a href="https://developer.bigcommerce.com/community">🤗 BigCommerce Developer Community</a> •
- <a href="https://github.com/bigcommerce/catalyst/discussions">💬 GitHub Discussions</a> •
- <a href="/docs">💡 Docs in this repo</a>
+ <a href="https://www.catalyst.dev">?? catalyst.dev</a> ?
+ <a href="https://developer.bigcommerce.com/community">?? BigCommerce Developer Community</a> ?
+ <a href="https://github.com/bigcommerce/catalyst/discussions">?? GitHub Discussions</a> ?
+ <a href="/docs">?? Docs in this repo</a>
 </p>
 
 ![-----------------------------------------------------](https://storage.googleapis.com/bigcommerce-developers/images/catalyst_readme_hr.png)
