@@ -1,5 +1,5 @@
 {
-  "buildCommand": "cd .. && pnpm run build",
+  "buildCommand": "pnpm run build",
   "outputDirectory": "core/.next",
   "installCommand": "pnpm install",
   "regions": ["iad1"]
